@@ -1,17 +1,18 @@
 <img src="https://raw.githubusercontent.com/cliply-video/.github/main/profile/mascot.png" align="right" width="120" alt="Cliply Signal mascot" />
 
-<img src="https://raw.githubusercontent.com/cliply-video/.github/main/profile/logo.png" width="84" alt="cliply" />
-
-# cliply
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cliply-video/.github/main/profile/lockup.png" />
+  <img src="https://raw.githubusercontent.com/cliply-video/.github/main/profile/lockup-ink.png" width="300" alt="cliply" />
+</picture>
 
 *Video analysis for sport — tag, cut, and share clips fast.*
 
 <a href="https://cliply.video"><b>cliply.video</b></a> ·
-<a href="https://exporter.cliply.video">Cliply Export</a> ·
+<a href="https://exporter.cliply.video">Cliply Exporter</a> ·
 <a href="https://github.com/cliply-video/cliply-exporter">GitHub</a>
 
 <p>
-  <a href="https://github.com/cliply-video/cliply-exporter/releases"><img src="https://img.shields.io/github/v/release/cliply-video/cliply-exporter?style=flat-square&color=ff9ecd&label=cliply%20export" alt="latest release" /></a>
+  <a href="https://github.com/cliply-video/cliply-exporter/releases"><img src="https://img.shields.io/github/v/release/cliply-video/cliply-exporter?style=flat-square&color=ff9ecd&label=cliply%20exporter" alt="latest release" /></a>
   <a href="https://github.com/cliply-video/cliply-exporter/blob/main/LICENSE"><img src="https://img.shields.io/github/license/cliply-video/cliply-exporter?style=flat-square&color=b88cf0" alt="license" /></a>
   <img src="https://img.shields.io/badge/offline-100%25-8ab0f8?style=flat-square" alt="offline" />
 </p>
@@ -23,7 +24,7 @@
 **[cliply.video](https://cliply.video)** is the full platform — cloud video, team
 workspaces, live sharing, and AI-assisted match analysis.
 
-**[Cliply Export](https://github.com/cliply-video/cliply-exporter)** is our
+**[Cliply Exporter](https://github.com/cliply-video/cliply-exporter)** is our
 open-source, 100% offline desktop clip cutter: paste a YouTube link, import a
 SportsCode / Nacsport XML, review the clips, and export ready-to-share MP4s with
 ffmpeg — folders per tag and reels included. No account, no cloud. Apache-2.0.
