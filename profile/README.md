@@ -1,26 +1,16 @@
-<div align="center">
-  <table border="0">
-    <tr>
-      <td valign="middle">
-        <img src="https://raw.githubusercontent.com/cliply-video/.github/main/profile/logo-horizontal.png" width="280" alt="cliply" />
-      </td>
-      <td valign="middle" width="28"></td>
-      <td valign="middle">
-        <img src="https://raw.githubusercontent.com/cliply-video/.github/main/profile/mascot.png" width="104" alt="Cliply Signal mascot" />
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="https://raw.githubusercontent.com/cliply-video/.github/main/profile/mascot.png" align="right" width="120" alt="Cliply Signal mascot" />
 
-<p align="center"><em>Video analysis for sport — tag, cut, and share clips fast.</em></p>
+<img src="https://raw.githubusercontent.com/cliply-video/.github/main/profile/logo.png" width="84" alt="cliply" />
 
-<p align="center">
-  <a href="https://cliply.video"><b>cliply.video</b></a> ·
-  <a href="https://exporter.cliply.video">Cliply Export</a> ·
-  <a href="https://github.com/cliply-video/cliply-exporter">GitHub</a>
-</p>
+# cliply
 
-<p align="center">
+*Video analysis for sport — tag, cut, and share clips fast.*
+
+<a href="https://cliply.video"><b>cliply.video</b></a> ·
+<a href="https://exporter.cliply.video">Cliply Export</a> ·
+<a href="https://github.com/cliply-video/cliply-exporter">GitHub</a>
+
+<p>
   <a href="https://github.com/cliply-video/cliply-exporter/releases"><img src="https://img.shields.io/github/v/release/cliply-video/cliply-exporter?style=flat-square&color=ff9ecd&label=cliply%20export" alt="latest release" /></a>
   <a href="https://github.com/cliply-video/cliply-exporter/blob/main/LICENSE"><img src="https://img.shields.io/github/license/cliply-video/cliply-exporter?style=flat-square&color=b88cf0" alt="license" /></a>
   <img src="https://img.shields.io/badge/offline-100%25-8ab0f8?style=flat-square" alt="offline" />
@@ -44,6 +34,4 @@ ffmpeg — folders per tag and reels included. No account, no cloud. Apache-2.0.
 | ------- | ---------- |
 | [**cliply-exporter**](https://github.com/cliply-video/cliply-exporter) | Offline clip cutter — Tauri + React + Rust. macOS / Windows / Linux. |
 
-<p align="center">
-  <sub>Need cloud, teams &amp; live sharing? → <a href="https://cliply.video"><b>cliply.video</b></a></sub>
-</p>
+> Need cloud, teams &amp; live sharing? → **[cliply.video](https://cliply.video)**
