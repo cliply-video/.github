@@ -17,8 +17,8 @@ The family also includes Offcut, our free offline clip cutter, and Sinté, a hoc
 </p>
 
 <p>
-  <a href="https://github.com/cliply-video/cliply-exporter/releases/latest"><img src="https://img.shields.io/github/v/release/cliply-video/cliply-exporter?style=flat-square&color=38bdf8&label=offcut" alt="Offcut latest release" /></a>
-  <a href="https://github.com/cliply-video/cliply-exporter/blob/main/LICENSE"><img src="https://img.shields.io/github/license/cliply-video/cliply-exporter?style=flat-square&color=38bdf8" alt="License: Apache-2.0" /></a>
+  <a href="https://github.com/cliply-video/offcut/releases/latest"><img src="https://img.shields.io/github/v/release/cliply-video/offcut?style=flat-square&color=38bdf8&label=offcut" alt="Offcut latest release" /></a>
+  <a href="https://github.com/cliply-video/offcut/blob/main/LICENSE"><img src="https://img.shields.io/github/license/cliply-video/offcut?style=flat-square&color=38bdf8" alt="License: Apache-2.0" /></a>
   <img src="https://img.shields.io/badge/offline--first-3ddc84?style=flat-square" alt="Offline-first" />
 </p>
 
@@ -46,7 +46,7 @@ Free, open-source, 100% offline desktop clip cutter. Paste a YouTube link or ope
 <p>
   <a href="https://offcut.cliply.video">offcut.cliply.video&nbsp;↗</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/cliply-video/cliply-exporter/releases/latest">Download&nbsp;↗</a>
+  <a href="https://github.com/cliply-video/offcut/releases/latest">Download&nbsp;↗</a>
 </p>
 
 <a href="https://offcut.cliply.video">
@@ -75,7 +75,7 @@ AHBA (Buenos Aires hockey association) tournaments in a CRT control room. Live s
 
 | Project | What it is |
 | ------- | ---------- |
-| [**Offcut**](https://github.com/cliply-video/cliply-exporter) | Free, offline clip cutter — Tauri + React + Rust. macOS / Windows / Linux. |
+| [**Offcut**](https://github.com/cliply-video/offcut) | Free, offline clip cutter — Tauri + React + Rust. macOS / Windows / Linux. |
 
 <br />
 
