@@ -1,0 +1,33 @@
+<svg width="1024" height="1024" viewBox="100 100 824 824" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- macOS icon grid: body inset ~100px on the 1024 canvas so it matches other Dock icons. -->
+  <defs>
+    <linearGradient id="tile" x1="180" y1="120" x2="860" y2="920" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#20252a" />
+      <stop offset="1" stop-color="#0c0f12" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.48" r="0.5">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.2" />
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+    <filter id="bloom" filterUnits="userSpaceOnUse" x="-40" y="-40" width="180" height="180">
+      <feGaussianBlur stdDeviation="14" />
+    </filter>
+  </defs>
+
+  <rect x="100" y="100" width="824" height="824" rx="185" fill="url(#tile)" />
+  <rect x="100" y="100" width="824" height="824" rx="185" fill="url(#glow)" />
+  <rect x="101.5" y="101.5" width="821" height="821" rx="184" fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="3" />
+
+  <g transform="translate(232,244) scale(5.5)">
+    <g fill="#38bdf8" opacity="0.45" filter="url(#bloom)">
+      <rect x="8" y="14" width="22" height="22" /><rect x="36" y="14" width="22" height="22" /><rect x="72" y="6" width="22" height="22" />
+      <rect x="8" y="42" width="22" height="22" /><rect x="36" y="42" width="22" height="22" /><rect x="64" y="42" width="22" height="22" />
+      <rect x="8" y="70" width="22" height="22" /><rect x="36" y="70" width="22" height="22" /><rect x="64" y="70" width="22" height="22" />
+    </g>
+    <g fill="#38bdf8">
+      <rect x="8" y="14" width="22" height="22" /><rect x="36" y="14" width="22" height="22" /><rect x="72" y="6" width="22" height="22" />
+      <rect x="8" y="42" width="22" height="22" /><rect x="36" y="42" width="22" height="22" /><rect x="64" y="42" width="22" height="22" />
+      <rect x="8" y="70" width="22" height="22" /><rect x="36" y="70" width="22" height="22" /><rect x="64" y="70" width="22" height="22" />
+    </g>
+  </g>
+</svg>

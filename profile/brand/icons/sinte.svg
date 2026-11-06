@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="512" height="512" role="img" aria-label="Sinté">
+  <rect width="32" height="32" fill="#000"/>
+  <defs>
+    <mask id="slits"><rect width="32" height="32" fill="#fff"/><g fill="#000"><rect x="-2" y="-6.6" width="36" height="2.3"/><rect x="-2" y="2.4" width="36" height="2.3"/><rect x="-2" y="11.4" width="36" height="2.3"/><rect x="-2" y="20.4" width="36" height="2.3"/><rect x="-2" y="29.4" width="36" height="2.3"/></g></mask>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="1.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <g transform="translate(5 5) scale(.6875)"><g mask="url(#slits)" filter="url(#glow)"><path d="M25 8H14.6a4.1 4.1 0 0 0 0 8.2h3.2a4.1 4.1 0 0 1 0 8.2H7" fill="none" stroke="#3BF08C" stroke-width="4.4" stroke-linecap="square"/></g>
+</g>
+</svg>
